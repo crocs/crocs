@@ -1,16 +1,15 @@
-## Hi there 👋
+# crocs
 
-<!--
-**crocs/crocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 커밋 잔디 정원
 
-Here are some ideas to get you started:
+### 3D 잔디밭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/crocs/crocs/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub 커밋 잔디 애니메이션" width="100%" />
+
+### 잔디를 갉아먹는 뱀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crocs/crocs/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crocs/crocs/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub 커밋 잔디를 갉아먹는 뱀 애니메이션" src="https://raw.githubusercontent.com/crocs/crocs/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
